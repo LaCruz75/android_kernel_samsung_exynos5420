@@ -1,0 +1,6 @@
+/* This file is auto generated, version 0 */
+#define UTS_MACHINE ""
+#define UTS_VERSION "#0 Sun Jul 24 08:57:25 CEST 2016"
+#define LINUX_COMPILE_BY "LaCruz"
+#define LINUX_COMPILE_HOST "CRUZER"
+#define LINUX_COMPILER "./mkcompile_h: 1: ./mkcompile_h: -v: not found"
